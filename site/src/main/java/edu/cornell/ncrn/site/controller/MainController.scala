@@ -1,13 +1,13 @@
-package edu.ncrn.cornell.site.controller
+package edu.cornell.ncrn.site.controller
 
-import edu.ncrn.cornell.service.ApiInfoService
-import edu.ncrn.cornell.site.controller.util.HandyServletContextAware
+import edu.cornell.ncrn.service.ApiInfoService
+import edu.cornell.ncrn.site.controller.util.HandyServletContextAware
 import org.springframework.http.MediaType
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Controller
 import org.springframework.ui.Model
 import org.springframework.web.bind.annotation._
-import edu.ncrn.cornell.site.view.AppView
+import edu.cornell.ncrn.site.view.AppView
 import org.springframework.web.servlet.View
 import org.springframework.web.servlet.view.RedirectView
 

@@ -1,6 +1,6 @@
-package edu.ncrn.cornell.site
+package edu.cornell.ncrn.site
 
-import edu.ncrn.cornell.Ced2arApplication
+import edu.cornell.ncrn.Ced2arApplication
 import org.springframework.boot.builder.SpringApplicationBuilder
 import org.springframework.boot.web.support.SpringBootServletInitializer
 

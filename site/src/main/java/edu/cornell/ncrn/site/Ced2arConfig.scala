@@ -1,4 +1,4 @@
-package edu.ncrn.cornell.site
+package edu.cornell.ncrn.site
 
 import org.hibernate.validator.constraints.NotBlank
 import org.springframework.boot.context.properties.{ConfigurationProperties, EnableConfigurationProperties}

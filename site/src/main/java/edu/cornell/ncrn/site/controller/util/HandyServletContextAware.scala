@@ -1,4 +1,4 @@
-package edu.ncrn.cornell.site.controller.util
+package edu.cornell.ncrn.site.controller.util
 
 import javax.servlet.ServletContext
 

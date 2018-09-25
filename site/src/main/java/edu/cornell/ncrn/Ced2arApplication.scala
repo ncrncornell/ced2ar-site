@@ -1,4 +1,4 @@
-package edu.ncrn.cornell
+package edu.cornell.ncrn
 
 import org.springframework.boot._
 import org.springframework.boot.autoconfigure._

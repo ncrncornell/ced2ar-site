@@ -1,9 +1,9 @@
-package edu.ncrn.cornell.site
+package edu.cornell.ncrn.site
 
 import org.springframework.context.ApplicationListener
 import org.springframework.context.event.ContextRefreshedEvent
 import org.springframework.stereotype.Component
-import edu.ncrn.cornell.model.testing.DBChecker
+import edu.cornell.ncrn.model.testing.DBChecker
 import org.springframework.beans.factory.annotation.Autowired
 
 /**

@@ -1,15 +1,15 @@
-package edu.ncrn.cornell.site.controller
+package edu.cornell.ncrn.site.controller
 
 
-import edu.ncrn.cornell.site.view.SchemaMapView
+import edu.cornell.ncrn.site.view.SchemaMapView
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.http.MediaType
 import org.springframework.stereotype.Controller
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RequestMethod
 import org.springframework.web.bind.annotation.ResponseBody
-import edu.ncrn.cornell.model.{Field, Schema}
-import edu.ncrn.cornell.model.dao.MappingDao
+import edu.cornell.ncrn.model.{Field, Schema}
+import edu.cornell.ncrn.model.dao.MappingDao
 
 import scala.collection.JavaConversions._
 import scala.collection.breakOut

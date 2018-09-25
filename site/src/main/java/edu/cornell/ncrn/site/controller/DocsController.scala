@@ -1,9 +1,9 @@
-package edu.ncrn.cornell.site.controller
+package edu.cornell.ncrn.site.controller
 
-import edu.ncrn.cornell.site.controller.DocsController._
-import edu.ncrn.cornell.model.dao.MappingDao
-import edu.ncrn.cornell.site.view.DocsView
-import edu.ncrn.cornell.site.controller.util.HandyServletContextAware
+import edu.cornell.ncrn.site.controller.DocsController._
+import edu.cornell.ncrn.model.dao.MappingDao
+import edu.cornell.ncrn.site.view.DocsView
+import edu.cornell.ncrn.site.controller.util.HandyServletContextAware
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.http.MediaType
 import org.springframework.stereotype.Controller

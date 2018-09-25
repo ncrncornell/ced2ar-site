@@ -1,8 +1,8 @@
-package edu.ncrn.cornell.site.controller;
+package edu.cornell.ncrn.site.controller;
 
-import edu.ncrn.cornell.site.Ced2arConfig;
-import edu.ncrn.cornell.service.UploadService;
-import edu.ncrn.cornell.site.view.UploadView;
+import edu.cornell.ncrn.site.Ced2arConfig;
+import edu.cornell.ncrn.service.UploadService;
+import edu.cornell.ncrn.site.view.UploadView;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Controller;

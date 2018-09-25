@@ -1,8 +1,8 @@
-package edu.ncrn.cornell.site.view.common
+package edu.cornell.ncrn.site.view.common
 
 import org.springframework.web.servlet.mvc.support.RedirectAttributes
 
-import edu.ncrn.cornell.site.controller.util.HandyServletContextAware
+import edu.cornell.ncrn.site.controller.util.HandyServletContextAware
 import org.springframework.stereotype.Component
 
 import scalatags.Text.all._

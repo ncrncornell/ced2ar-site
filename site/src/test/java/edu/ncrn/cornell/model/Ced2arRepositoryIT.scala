@@ -1,8 +1,8 @@
-package edu.ncrn.cornell.model
+package edu.cornell.ncrn.model
 
-import edu.ncrn.cornell.Ced2arApplication
-import edu.ncrn.cornell.model.testing.BaseRepositoryIT
-import edu.ncrn.cornell.service.{CodebookService, CodebookServiceTesters}
+import edu.cornell.ncrn.Ced2arApplication
+import edu.cornell.ncrn.model.testing.BaseRepositoryIT
+import edu.cornell.ncrn.service.{CodebookService, CodebookServiceTesters}
 import org.junit.{Ignore, Test}
 //import org.junit.gen5.api.Test
 import org.springframework.beans.factory.annotation.Autowired

@@ -1,6 +1,6 @@
-package edu.ncrn.cornell.site.view
+package edu.cornell.ncrn.site.view
 
-import edu.ncrn.cornell.site.view.common.Ced2arView
+import edu.cornell.ncrn.site.view.common.Ced2arView
 import org.springframework.stereotype.Component
 import AppView._
 

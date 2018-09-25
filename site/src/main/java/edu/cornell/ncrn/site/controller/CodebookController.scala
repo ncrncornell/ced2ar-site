@@ -1,13 +1,13 @@
-package edu.ncrn.cornell.site.controller
+package edu.cornell.ncrn.site.controller
 
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.http.MediaType
 import org.springframework.stereotype.Controller
 import org.springframework.ui.Model
 import org.springframework.web.bind.annotation._
-import edu.ncrn.cornell.service.CodebookService
-import edu.ncrn.cornell.service.api._
-import edu.ncrn.cornell.site.view._
+import edu.cornell.ncrn.service.CodebookService
+import edu.cornell.ncrn.service.api._
+import edu.cornell.ncrn.site.view._
 
 @Autowired
 @Controller

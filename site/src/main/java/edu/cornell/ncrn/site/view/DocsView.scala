@@ -1,9 +1,9 @@
-package edu.ncrn.cornell.site.view
+package edu.cornell.ncrn.site.view
 
-import edu.ncrn.cornell.site.controller.DocsController._
-import edu.ncrn.cornell.model.{Field, Schema}
-import edu.ncrn.cornell.site.view.common.Ced2arView
-import edu.ncrn.cornell.site.view.DocsView._
+import edu.cornell.ncrn.site.controller.DocsController._
+import edu.cornell.ncrn.model.{Field, Schema}
+import edu.cornell.ncrn.site.view.common.Ced2arView
+import edu.cornell.ncrn.site.view.DocsView._
 import org.springframework.stereotype.Component
 
 import scalatags.Text.all._

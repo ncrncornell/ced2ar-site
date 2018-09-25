@@ -1,7 +1,7 @@
-package edu.ncrn.cornell.site.view
+package edu.cornell.ncrn.site.view
 
-import edu.ncrn.cornell.service.api.CodebookNames
-import edu.ncrn.cornell.site.view.common.Ced2arView
+import edu.cornell.ncrn.service.api.CodebookNames
+import edu.cornell.ncrn.site.view.common.Ced2arView
 import org.springframework.stereotype.Component
 
 import scalatags.Text.all._
