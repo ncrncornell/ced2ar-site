@@ -23,7 +23,7 @@ class ApplicationStartup
   @Autowired
   var dBChecker: DBChecker = _
 
-  def onApplicationEvent(event: ContextRefreshedEvent) {
+  def onApplicationEvent(event: ContextRefreshedEvent): Unit = {
 
     if (ced2arConfig.checkDb.toBoolean) {
       dBChecker.DBinitIsOk()
