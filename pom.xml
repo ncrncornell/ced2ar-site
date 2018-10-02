@@ -59,7 +59,7 @@
 
     <properties>
         <revision>0.0.0</revision>
-        <ced2ar.core_services.version>0.0.0</ced2ar.core_services.version>
+        <ced2ar.core_services.version>0.0.1</ced2ar.core_services.version>
         <ced2ar.rdb.version>0.0.3</ced2ar.rdb.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
