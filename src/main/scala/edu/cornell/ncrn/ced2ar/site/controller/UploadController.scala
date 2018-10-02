@@ -23,9 +23,9 @@ import java.io.FileOutputStream
   *
   */
 @Controller class UploadController {
-  @Autowired private val uploadService: UploadService = null
-  @Autowired private val ced2arConfig: Ced2arConfig = null
-  @Autowired private[controller] val view: UploadView = null
+  @Autowired private var uploadService: UploadService = _
+  @Autowired private var ced2arConfig: Ced2arConfig = _
+  @Autowired private[controller] var view: UploadView = _
   final private val thisPath = "/upload"
 
   //GET page
